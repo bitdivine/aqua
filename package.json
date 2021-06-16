@@ -35,7 +35,7 @@
     "joi": "9.x.x",
     "mongo-models": "1.x.x",
     "mongodb": "2.x.x",
-    "node-uuid": "1.4.7",
+    "node-uuid": "1.4.8",
     "nodemailer": "2.x.x",
     "nodemailer-markdown": "1.x.x",
     "object-assign": "4.x.x",
