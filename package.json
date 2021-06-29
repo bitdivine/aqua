@@ -36,7 +36,7 @@
     "mongo-models": "1.x.x",
     "mongodb": "2.x.x",
     "node-uuid": "1.4.7",
-    "nodemailer": "2.x.x",
+    "nodemailer": "6.6.1",
     "nodemailer-markdown": "1.x.x",
     "object-assign": "4.x.x",
     "react": "15.x.x",
